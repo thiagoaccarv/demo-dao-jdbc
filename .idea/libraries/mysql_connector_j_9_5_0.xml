@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j-9.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/java-libs/jdbc-connectors/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr/share/java/mysql-connector-j-9.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/java-libs/jdbc-connectors/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr/share/java/mysql-connector-java-9.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
